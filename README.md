@@ -65,4 +65,4 @@ https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 ````
 
 # Resultado Final Modelo de Classes
-![Diagrama de Classes]https://github.com/Cilentoo/trilha-java-poo/blob/main/assets/Model-Iphone-Uml.png
+![Modelo Conceitual](https://github.com/Cilentoo/trilha-java-poo/blob/main/assets/Model-Iphone-Uml.png)
