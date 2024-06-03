@@ -59,7 +59,10 @@ classDiagram
 3. Opcionalmente, caso esteja cheio(a) de confiança, pode implementar as classes Java representadas em seu diagrama UML.
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
+
 ```bash
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 ````
 
+# Resultado Final Modelo de Classes
+https://github.com/Cilentoo/trilha-java-poo/blob/main/assets/Model-Iphone-Uml.png
